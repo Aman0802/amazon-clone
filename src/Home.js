@@ -15,7 +15,7 @@ function Home() {
           <Product
             id="12321341"
             title="The lean startup. Book for inspiration, smaple text for covering description, this should do"
-            price="29.99"
+            price={29.99}
             image="https://m.media-amazon.com/images/I/81vvgZqCskL._AC_UY218_.jpg"
             rating={5}
           />
@@ -46,7 +46,7 @@ function Home() {
           <Product
             id="49528094"
             title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, DOugh Hook and Whisk, 5 Litre Glass Bowl"
-            price="29.99"
+            price={29.99}
             image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
             rating={4}
           />
